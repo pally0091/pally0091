@@ -1,4 +1,4 @@
--> 👋 Hi, I’m Debashis Roy
+-> 👋 Hi, I’m Debashis Roy<br/>
 -> 👀 I’m interested in Web design and devolopment.
 -> 🌱 I’m currently learning React
 -> 💞️ I’m looking to collaborate on anythings related.
