@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/mtW34df/Yellow-Monochrome-Photo-Linked-In-Banner.png" alt="Banner"/>
+
 -> 👋 Hi, I’m Debashis Roy<br/>
 -> 👀 I’m interested in Web design and devolopment.<br/>
 -> 💞️ I’m looking to collaborate on anythings related.<br/>
