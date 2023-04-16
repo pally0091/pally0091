@@ -19,6 +19,14 @@ It is my passion to learn about any new technology. As a technician or web devel
     *UiKit<br/>
     *NodeJS<br/>
     <br/>
+=> CSS Frameworks -<br/>
+         TailwindCSS<br/>
+         Bootstrap <br/>
+         UiKit<br/>
+         DaisyUI<br/>
+         MetarialUI<br/>
+         TailwindUI<br/>
+         Flowbite<br/>
     <br/>
     Contacts: <br/>
     Email: debashisroy0091@yahoo.com<br/>
