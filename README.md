@@ -10,27 +10,34 @@ It is my passion to learn about any new technology. As a technician or web devel
 ## 🛠 Skills
 *HTML
 *CSS
-*JavaScript
+*JavaScript <br/>
 *ReactJS
 *React Router
-*CSS frameworks
+*CSS frameworks <br/>
 *Responsive Design
 *Figma
-*jQuery
-*Canva
-*Fire Base
 *UiKit
+*Canva <br/>
+*Fire Base
 *NodeJS
+*jQuery
 
 
-=> CSS Frameworks -<br/>
-         TailwindCSS<br/>
-         Bootstrap <br/>
-         UiKit<br/>
-         DaisyUI<br/>
-         MetarialUI<br/>
-         TailwindUI<br/>
-         Flowbite<br/>
+## => CSS Frameworks -
+
+TailwindCSS
+
+Bootstrap
+
+UiKit
+
+DaisyUI
+
+MetarialUI
+
+TailwindUI
+
+Flowbite
     <br/>
     Contacts: <br/>
     Email: debashisroy0091@yahoo.com<br/>
