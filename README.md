@@ -41,7 +41,7 @@ Flowbite
     <br/>
     <br/>
 ## Contacts: <br/>
-    Email: debashisroy0091@yahoo.com<br/>
+    Email: debashisroy0091@yahoo.com
     
 <!---
 pally0091/pally0091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
