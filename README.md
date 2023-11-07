@@ -8,20 +8,20 @@ It is my passion to learn about any new technology. As a technician or web devel
 
 
 ## 🛠 Skills
-<kbd>*HTML</kbd>
-<kbd>*CSS</kbd>
-<kbd>*JavaScript</kbd>
-<kbd>*ReactJS</kbd>
-<kbd>*React Router</kbd>
-<kbd>*CSS frameworks </kbd>
-<kbd>*Responsive Design</kbd>
-<kbd>*Figma</kbd>
-<kbd>*UiKit</kbd>
-<kbd>*Canva </kbd>
-<kbd>*Fire Base</kbd>
-<kbd>*NodeJS</kbd>
-<kbd>*jQuery</kbd>
-<kbd>*TypeScript</kbd>
+<kbd>HTML</kbd>
+<kbd>CSS</kbd>
+<kbd>JavaScript</kbd>
+<kbd>ReactJS</kbd>
+<kbd>React Router</kbd>
+<kbd>CSS frameworks </kbd>
+<kbd>Responsive Design</kbd>
+<kbd>Figma</kbd>
+<kbd>UiKit</kbd>
+<kbd>Canva </kbd>
+<kbd>Fire Base</kbd>
+<kbd>NodeJS</kbd>
+<kbd>jQuery</kbd>
+<kbd>TypeScript</kbd>
 <kbd>NextJS</kbd>
 
 
