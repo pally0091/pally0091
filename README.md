@@ -21,6 +21,8 @@ It is my passion to learn about any new technology. As a technician or web devel
 <kbd>*Fire Base</kbd>
 <kbd>*NodeJS</kbd>
 <kbd>*jQuery</kbd>
+<kbd>*TypeScript</kbd>
+<kbd>NextJS</kbd>
 
 
 ## => CSS Frameworks -
