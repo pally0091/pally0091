@@ -2,9 +2,13 @@
 
 
 ## 🚀 About Me
-I am a web developer with a good knowledge of HTML, CSS, JavaScript. I did work with CSS frameworks like Bootstrap, TailwindCSS etc. With JavaScript I can do functional job for website or web application. I think I have everything that a frontend developer should have. Can work with React and React Router.
-I have some little knowledge in backend like nodeJS, express, cors etc. I am trying to improve this.
-It is my passion to learn about any new technology. As a technician or web developer I try to keep myself up to date. I think it is very important for my personal and career life that I keep myself prepared for any situation. I like to treat people well and be friendly. I like to work together as well as at work.
+As a web developer, my expertise encompasses a strong command of HTML, CSS, and JavaScript, complemented by hands-on experience with CSS frameworks such as Bootstrap and TailwindCSS. Proficient in functional web development, I am well-versed in React and React Router.<br/>
+
+In my continuous pursuit of excellence, I am actively expanding my backend knowledge, exploring technologies like Node.js, Express, and CORS. This commitment to ongoing learning is rooted in my passion for staying abreast of the latest advancements in technology.<br/>
+
+I firmly believe in the importance of being prepared for any situation, both personally and professionally. This dedication to staying informed aligns with the dynamic nature of web development. Additionally, my collaborative and friendly approach to work reflects my belief in the significance of effective teamwork.<br/>
+
+As a self-motivated individual, I find fulfillment in treating people well and fostering a positive working environment. My intrinsic drive for professional growth and my dedication to staying current in the ever-evolving tech landscape position me as a proactive and valuable contributor to any development team.
 
 
 ## 🛠 Skills
