@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/mtW34df/Yellow-Monochrome-Photo-Linked-In-Banner.png" alt="Banner"/>
+<img src="[https://i.ibb.co/mtW34df/Yellow-Monochrome-Photo-Linked-In-Banner.png](https://i.ibb.co/7v09Y8G/Designer.png)" alt="Banner"/>
 
 
 ## 🚀 About Me
