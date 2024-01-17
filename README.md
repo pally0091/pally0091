@@ -29,8 +29,6 @@ As a self-motivated individual, I find fulfillment in treating people well and f
 <kbd>NextJS</kbd>
 
 
-    <br/>
-    <br/>
 ## Contacts: <br/>
     Email: debashisroy0091@yahoo.com
     
