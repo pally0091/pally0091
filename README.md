@@ -29,21 +29,6 @@ As a self-motivated individual, I find fulfillment in treating people well and f
 <kbd>NextJS</kbd>
 
 
-## => CSS Frameworks -
-
-TailwindCSS
-
-Bootstrap
-
-UiKit
-
-DaisyUI
-
-MetarialUI
-
-TailwindUI
-
-Flowbite
     <br/>
     <br/>
 ## Contacts: <br/>
