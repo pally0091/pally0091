@@ -97,11 +97,7 @@ As a self-motivated individual, I find fulfillment in treating people well and f
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/pally0091/pally0091/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## Contacts: <br/>
     Email: debashisroy0091@yahoo.com
