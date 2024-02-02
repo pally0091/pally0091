@@ -2,9 +2,7 @@
 <h2 align="left">Hi 👋! My name is Debashis Roy and I'm a Web Developer, from Bangladesh</h2>
 <img src="https://i.ibb.co/7v09Y8G/Designer.png" alt="Banner"/>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pally0091/count.svg?"  />
-</div>
+
 
 ###
 
