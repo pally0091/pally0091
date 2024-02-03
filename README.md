@@ -83,6 +83,7 @@ As a self-motivated individual, I find fulfillment in treating people well and f
 [![showwcase](https://img.shields.io/badge/Showwcase-000?style=for-the-badge&logo=showwcase&logoColor=white)](https://www.showwcase.com/debashisroy9191)
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fre0091)
 [![fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/droy9191?up_rollout=true)
+[![upwork](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]([https://www.upwork.com/freelancer/yourusername](https://www.upwork.com/freelancers/~013bc0c5171c2f26d2))
 
 ###
 
