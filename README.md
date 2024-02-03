@@ -27,7 +27,7 @@ As a self-motivated individual, I find fulfillment in treating people well and f
 
 ###
 
-<div align="left">
+<div align="left" background-color:"white">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
