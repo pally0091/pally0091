@@ -16,7 +16,7 @@ I firmly believe in the importance of being prepared for any situation, both per
 As a self-motivated individual, I find fulfillment in treating people well and fostering a positive working environment. My intrinsic drive for professional growth and my dedication to staying current in the ever-evolving tech landscape position me as a proactive and valuable contributor to any development team.
 
 
-## 🛠 Skills
+## 🛠 Stats
 
 ###
 
