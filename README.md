@@ -6,13 +6,7 @@
 ###
 
 ## 🚀 About Me
-As a web developer, my expertise encompasses a strong command of HTML, CSS, and JavaScript, complemented by hands-on experience with CSS frameworks such as Bootstrap and TailwindCSS. Proficient in functional web development, I am well-versed in React and React Router.<br/>
-
-In my continuous pursuit of excellence, I am actively expanding my backend knowledge, exploring technologies like Node.js, Express, and CORS. This commitment to ongoing learning is rooted in my passion for staying abreast of the latest advancements in technology.<br/>
-
-I firmly believe in the importance of being prepared for any situation, both personally and professionally. This dedication to staying informed aligns with the dynamic nature of web development. Additionally, my collaborative and friendly approach to work reflects my belief in the significance of effective teamwork.<br/>
-
-As a self-motivated individual, I find fulfillment in treating people well and fostering a positive working environment. My intrinsic drive for professional growth and my dedication to staying current in the ever-evolving tech landscape position me as a proactive and valuable contributor to any development team.
+As a frontend-focused web developer, I excel in crafting dynamic and engaging user interfaces using HTML, CSS, and JavaScript. My expertise extends to advanced frontend frameworks like React, where I leverage Next.js for seamless server-side rendering and Redux for state management. Additionally, I bring motion to life with Framer Motion for delightful animations. Committed to continuous learning, My collaborative nature ensures effective teamwork, fostering a positive environment for innovation and growth.
 
 
 <div align="left" style="background-color: white; padding: 2px">
