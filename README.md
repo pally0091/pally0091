@@ -86,7 +86,7 @@ As a frontend-focused web developer, I excel in crafting dynamic and engaging us
 
 
 ## Contacts: <br/>
-    Email: debashisroy0091@yahoo.com
+    Email: goodquote39@hotmail.com
     
 <!---
 pally0091/pally0091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
