@@ -74,7 +74,7 @@ As a frontend-focused web developer, I excel in crafting dynamic and engaging us
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://d-roy.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fre0091.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/droy9191/)
 [![showwcase](https://img.shields.io/badge/Showwcase-000?style=for-the-badge&logo=showwcase&logoColor=white)](https://www.showwcase.com/debashisroy9191)
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fre0091)
