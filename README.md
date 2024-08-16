@@ -68,7 +68,7 @@ As a frontend-focused web developer, I excel in crafting dynamic and engaging us
 
 ###
 
-
+<a href="https://gitroll.io/profile/uGlnpWhucbDadsPmcab3WJERgA6L2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGlnpWhucbDadsPmcab3WJERgA6L2" alt="GitRoll Profile Badge"/></a>
 
 ###
 
