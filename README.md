@@ -6,7 +6,13 @@
 ###
 
 ## 🚀 About Me
-As a frontend-focused web developer, I excel in crafting dynamic and engaging user interfaces using HTML, CSS, and JavaScript. My expertise extends to advanced frontend frameworks like React, where I leverage Next.js for seamless server-side rendering and Redux for state management. Additionally, I bring motion to life with Framer Motion for delightful animations. Committed to continuous learning, My collaborative nature ensures effective teamwork, fostering a positive environment for innovation and growth.
+I am a frontend-focused web developer with a strong foundation in modern JavaScript frameworks and UI/UX principles. I specialize in building responsive, user-centric web applications using React, Next.js, TypeScript, and Tailwind CSS.
+
+With over 3 years of hands-on web development experience and 14 years in IT support, I bring a balanced perspective that combines clean interface design, performance awareness, and real-world problem solving. I am comfortable collaborating in agile environments, translating designs into scalable components, and continuously refining user experiences.
+
+Beyond development, I value learning, teamwork, and practical innovation. I enjoy working with tools like Framer Motion, Firebase, and headless CMS solutions to create smooth, engaging, and maintainable products.
+
+I am always open to improving my craft, contributing to meaningful projects, and staying aligned with evolving web technologies.
 
 
 <div align="left" style="background-color: white; padding: 2px">
