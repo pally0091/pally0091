@@ -74,7 +74,7 @@ I am always open to improving my craft, contributing to meaningful projects, and
 
 ###
 
-<a href="https://gitroll.io/profile/uGlnpWhucbDadsPmcab3WJERgA6L2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGlnpWhucbDadsPmcab3WJERgA6L2" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uGlnpWhucbDadsPmcab3WJERgA6L2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGlnpWhucbDadsPmcab3WJERgA6L2?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
 ###
 
