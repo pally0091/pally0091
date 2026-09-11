@@ -13,13 +13,13 @@
 
 ### 🚀 About Me
 
-I am a frontend-focused web developer specializing in building responsive, user-centric web applications using **React, Next.js, TypeScript, and Tailwind CSS**. 
+I am a frontend-focused web developer specializing in building responsive, user-centric web applications using **React, Next.js, TypeScript and Tailwind CSS**. 
 
 With over **3 years of dedicated web development experience** combined with **14 years in IT support**, I offer a well-rounded perspective that bridges polished interface design with solid system performance and practical problem-solving.
 
-* 💡 **Core Focus:** Clean architecture, component scalability, and fluid user experiences.
-* ⚙️ **Ecosystem:** Next.js App Router, Framer Motion, Firebase, and Headless CMS architectures.
-* 🛠️ **Approach:** Pragmatic, performance-driven, and focused on maintainable code.
+* 💡 **Core Focus:** Clean architecture, component scalability and fluid user experiences.
+* ⚙️ **Ecosystem:** Next.js App Router, Framer Motion, Firebase and Headless CMS architectures.
+* 🛠️ **Approach:** Pragmatic, performance-driven and focused on maintainable code.
 
 ---
 
