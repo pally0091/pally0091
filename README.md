@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-I build responsive, user-centric web applications with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. Bringing together **3+ years of web development** and **14 years in IT support**, I approach UI engineering with an eye for performance, reliability, and real-world usability.
+I build responsive, user-centric web applications with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. Bringing together **4+ years of web development** and **15 years in IT support**, I approach UI engineering with an eye for performance, reliability, and real-world usability.
 
 * **Architecture & UI:** Clean component systems, accessible interfaces, and smooth motion with **Framer Motion**.
 * **Data & Content:** **Next.js App Router**, **Firebase**, **MongoDB**, and **Headless CMS** workflows.
